@@ -1,4 +1,4 @@
-module github.com/ANickelN/cddamap
+module github.com/ralreegorganon/cddamap
 
 go 1.12
 
