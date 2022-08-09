@@ -1,6 +1,6 @@
 module github.com/ANickelN/cddamap
 
-go 1.13
+go 1.12
 
 require (
 	github.com/disintegration/imaging v1.5.0
